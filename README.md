@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm **Gautham Prabhahar**, an engineering student from India with a strong interest in
+I'm **Gautham Prabhahar P**, an engineering student from India with a strong interest in
 **Artificial Intelligence, Data Science, IoT, electronics, embedded systems, and sustainable technology**.
 
 I enjoy building practical projects that solve real-world problems and turning ideas into working prototypes.
