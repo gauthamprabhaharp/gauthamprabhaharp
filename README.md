@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Hey there! 👋 I'm Gautham Prabhahar
+# Hey there! 👋 I'm Gautham Prabhahar P
 
 ### Engineering Student • AI & Data Science • IoT • Electronics • Innovation
 
